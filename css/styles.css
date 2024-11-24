@@ -545,12 +545,6 @@ fieldset {
   fill: #f4f4fd;
 }
 
-.footer-input-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
 .footer-wrapper {
   margin-left: auto;
 }
@@ -569,6 +563,9 @@ fieldset {
   margin-bottom: 16px;
 }
 
+.footer-input-container {
+  margin-bottom: 8px;
+}
 .footer-input {
   background-color: transparent;
   border: 1px solid #fff;
