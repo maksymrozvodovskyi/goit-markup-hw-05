@@ -549,6 +549,9 @@ fieldset {
 
 .footer-wrapper {
   margin-left: auto;
+}
+
+.footer-input-container {
   margin-bottom: 8px;
 }
 
@@ -718,7 +721,7 @@ fieldset {
 }
 
 .modal-form-field {
-  margin-bottom: 16px;
+  margin-bottom: 8px;
   font-size: 12px;
   line-height: 1.17;
   letter-spacing: 0.04em;
