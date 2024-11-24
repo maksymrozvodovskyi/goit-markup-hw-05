@@ -777,6 +777,7 @@ fieldset {
   padding: 8px 16px;
   resize: none;
   outline: transparent;
+  margin-bottom: 16px;
   line-height: 1.17;
   letter-spacing: 0.04em;
   background-color: transparent;
