@@ -734,8 +734,8 @@ fieldset {
   height: 40px;
   padding: 8px 38px;
   outline: transparent;
-  transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
-  transition-property: border;
+  transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  background-color: transparent;
 }
 
 .modal-form-wrapper {
@@ -858,7 +858,7 @@ input[type="checkbox"]:focus-visible
   display: block;
   border-radius: 4px;
   padding: 16px 32px;
-  width: 169px;
+  min-width: 169px;
   height: 56px;
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #4d5ae5;
