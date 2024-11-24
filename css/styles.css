@@ -723,12 +723,11 @@ fieldset {
   line-height: 1.17;
   letter-spacing: 0.04em;
   color: #8e8f99;
-  margin-bottom: 16px;
+  margin-bottom: 8px;
 }
 
 .modal-form-wrapper {
   position: relative;
-  margin-bottom: 16px;
 }
 
 .modal-form-input {
