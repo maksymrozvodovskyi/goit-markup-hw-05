@@ -725,6 +725,13 @@ fieldset {
   color: #8e8f99;
   margin-bottom: 8px;
 }
+.modal-form-textarea {
+  font-size: 12px;
+  line-height: 1.17;
+  letter-spacing: 0.04em;
+  color: #8e8f99;
+  margin-bottom: 16px;
+}
 
 .modal-form-wrapper {
   position: relative;
@@ -777,7 +784,6 @@ fieldset {
   padding: 8px 16px;
   resize: none;
   outline: transparent;
-  margin-bottom: 16px;
   line-height: 1.17;
   letter-spacing: 0.04em;
   background-color: transparent;
