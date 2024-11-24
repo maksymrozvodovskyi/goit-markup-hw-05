@@ -719,11 +719,16 @@ fieldset {
 }
 
 .modal-form-field {
-  margin-bottom: 8px;
+  margin-bottom: 16px;
   font-size: 12px;
   line-height: 1.17;
   letter-spacing: 0.04em;
   color: #8e8f99;
+}
+
+.modal-form-wrapper {
+  position: relative;
+  margin-bottom: 8px;
 }
 
 .modal-form-input {
@@ -737,11 +742,6 @@ fieldset {
   outline: transparent;
   transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
   background-color: transparent;
-}
-
-.modal-form-wrapper {
-  position: relative;
-  margin-bottom: 8px;
 }
 
 .modal-form-svg {
