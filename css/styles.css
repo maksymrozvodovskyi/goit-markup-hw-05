@@ -721,7 +721,7 @@ fieldset {
 }
 
 .modal-form-field {
-  margin-bottom: 8px;
+  margin-bottom: 16px;
   font-size: 12px;
   line-height: 1.17;
   letter-spacing: 0.04em;
@@ -743,6 +743,7 @@ fieldset {
 
 .modal-form-wrapper {
   position: relative;
+  margin-bottom: 8px;
 }
 
 .modal-form-svg {
